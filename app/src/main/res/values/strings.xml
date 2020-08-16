@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Food Paradise</string>
+    <string name="meal_title">Meal Title</string>
+    <string name="categories">Categories</string>
+    <string name="country">Country</string>
+    <string name="get_meal_by">Get Meal By</string>
+    <string name="first_letter">First Letter</string>
+    <string name="ingredient">Ingredient</string>
+    <string name="name">Name</string>
+    <string name="menu_action_search">Search</string>
+</resources>
